@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fontFamilies>
+   <fontFamily name="Arial Rounded MT Bold">
+    <normal><![CDATA[fonts/arlrdbd.ttf]]></normal>
+    <bold><![CDATA[fonts/arlrdbd.ttf]]></bold>
+    <pdfEncoding>Identity-H</pdfEncoding>
+    <pdfEmbedded><![CDATA[false]]></pdfEmbedded>
+    <exportFonts>
+    <export key="xhtml">Arial Rounded MT Bold</export>
+  	<export key="html">Arial Rounded MT Bold</export>
+  	</exportFonts>
+   </fontFamily>
+</fontFamilies>
+
+ 
